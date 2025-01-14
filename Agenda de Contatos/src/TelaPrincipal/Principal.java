@@ -61,7 +61,7 @@ public class Principal {
 			public void actionPerformed(ActionEvent e) {
 				
 				new ConectarAoBancoDeDados().getConnection();
-				JOptionPane.showMessageDialog(null, "Banco de Dados conectado com sucesso!");
+				JOptionPane.showMessageDialog(null, "Banco de Dados conectado com sucesso!!!");
 				
 			}
 		});
