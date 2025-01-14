@@ -1,0 +1,17 @@
+# Ignorar arquivos e pastas gerados pelo IDE
+.metadata/
+.project
+.classpath
+.settings/
+target/
+RemoteSystemsTempFiles/
+
+# Ignorar arquivos de backup
+*.swp
+*~
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração local
+.vscode/
